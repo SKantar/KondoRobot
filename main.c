@@ -33,7 +33,9 @@ int send_file(int client_sock, char *file_path)
 {
     char buffer[BUFFER_SIZE];
     long file_len;
-
+    
+    system("spcacat -N 1 -f jpg -s 640x480 -g -o");
+    
     /** Open File with path 'file_path' **/
     FILE *file = fopen(file_path, "rb");
 
