@@ -3,6 +3,6 @@ My master's thesis was to upgrade the original Kondo robot platform with a new, 
 
 RM board has a ARM-920T core processor and a customized Linux (Kernel 2.6 series). It can drive up to 24ch RC servos and up to 8ch ADC. It is also equipped with LAN, USB2.0 and FPU.
 
-![Here](https://youtu.be/xCbXRGGFS9o) you can find some results.
+[Here](https://youtu.be/xCbXRGGFS9o) you can find some results.
 
 
